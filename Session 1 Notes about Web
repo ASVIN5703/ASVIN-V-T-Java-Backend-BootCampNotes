@@ -1,0 +1,16 @@
+HOW A WEB SEARCH WORKS?
+         say for example your serach google.com or facebook.com each of these has a an unique IP address ,which is impossible to remember and there comes this DNS server
+         which returns IP address to CDN- which is  CONTENT DEILVERY NETWORK ,it sends out static web page in format of html,css or js.web pages does not come from direct
+         from main server,it mostly comes from neraby servers (i.e Edge servers) which is identified by CDN it checks with help of users location.
+         
+ Diagram
+               
+               
+               browser-------->CDN------>BACKEND SERVER
+                  |                            |
+                  |                            |
+                  |                            |
+                 |                             |
+                |-----------------------------|-----------------------------------------------------------------------------------|  
+                                           REST API->Extract data->Process data->Database operations->prepare response->send------|
+                                                                                                                       
