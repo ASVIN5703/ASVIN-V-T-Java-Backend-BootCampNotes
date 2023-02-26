@@ -23,5 +23,11 @@ public class ListIteratorExercise {
         {
             System.out.println(itr.next());
         }
+        System.out.println("backward");
+      ListIterator<String> j= list.listIterator (list.size ());
+      while (j.hasPrevious ()){
+          System.out.println (j.previous () );
+      }
+
     }
 }
