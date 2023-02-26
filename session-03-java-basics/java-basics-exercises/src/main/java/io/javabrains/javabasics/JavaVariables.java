@@ -31,6 +31,13 @@ public class JavaVariables {
          System.out.println("int value"+age+"\nlong :"+number+"\nfloat :"+f+"\ndouble: "+cutoff+"\nchar:"+ch+"\nboolean:"+result+"\nString:"+name);
 
         // Step 3: Modify the values of the variables and print the updated values
+        age=20;
+        number=90405252123543L;
+        cutoff=99.0003;ch='b';
+        name="Asvin V T";
+        f=99.0f;
+        result=false;
+        System.out.println("int value"+age+"\nlong :"+number+"\nfloat :"+f+"\ndouble: "+cutoff+"\nchar:"+ch+"\nboolean:"+result+"\nString:"+name);
 
     }
 }
