@@ -9,6 +9,12 @@ abstract class Animal2{
 }
 public class AnonymousInnerClasses {
     public static void main(String[] args) {
-
+       Animal2 a=new Animal2 ( ) {
+           @Override
+           void makeSound() {
+               System.out.println ("quack\n\tquack\n\t\tquack" );
+           }
+       };
+       a.makeSound ();
     }
 }
