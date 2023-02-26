@@ -3,7 +3,7 @@ import java.util.Objects;
 public class InstanceOf {
 
     public static void main(String[] args) {
-
+//
         Object[] objects = {
                 10,
                 "Hello",
