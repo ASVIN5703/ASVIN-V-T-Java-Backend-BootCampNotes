@@ -15,6 +15,6 @@ package io.javabrains.javabasics;
 public class InheritanceChallenge {
 
     public static void main(String[] args) {
-
+///
     }
 }
