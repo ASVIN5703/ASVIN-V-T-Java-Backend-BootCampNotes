@@ -7,6 +7,6 @@ Create an anonymous inner class implementation of `Animal2` and then call the `m
 
 public class AnonymousInnerClasses {
     public static void main(String[] args) {
-
+     System.out.print("jai");
     }
 }
