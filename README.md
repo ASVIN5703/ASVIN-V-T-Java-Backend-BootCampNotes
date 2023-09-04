@@ -1,4 +1,4 @@
-# Java language basics
+# Java language basic
 
 ## Contents
 ### Basic Syntax: 
