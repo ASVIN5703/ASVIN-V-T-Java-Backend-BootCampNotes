@@ -12,5 +12,5 @@ HOW A WEB SEARCH WORKS?
                   |                            |
                  |                             |
                 |-----------------------------|-----------------------------------------------------------------------------------|  
-                                           REST API->Extract data->Process data->Database operations->prepare response->send------|
+                                           REST API->Extract data->Process data->Database operations->prepare response->send------|//
                                                                                                                        
